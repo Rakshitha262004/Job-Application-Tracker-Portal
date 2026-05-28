@@ -147,6 +147,6 @@ Google Drive Video Link:
 
 ## 👤 Author
 
-**Raksh Kumar**  
-B.E. Engineering Student — ACS College of Engineering, Bengaluru (VTU)  
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Rakshitha A S**  
+B.E. Engineering Student
+
