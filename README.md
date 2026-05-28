@@ -10,7 +10,7 @@ A full-stack MERN web application that helps job seekers track their job applica
 
 | Dashboard | Add Application | Application List |
 |---|---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Add Job](docs/screenshots/add-job.png) | ![Job List](docs/screenshots/job-list.png) |
+| ![Dashboard](outputs/job_lg.png) | ![Add Job](outputs/job_db1.png) | ![Add Job](outputs/job_db2.png) |![Job List](outputs/job_db3.png) |
 
 ---
 
@@ -121,6 +121,15 @@ npm run dev
 
 ### 4. Open in browser
 Visit: http://localhost:5173
+
+---
+
+🎥 Project Demo Video
+📌 Watch Full Project Demo
+
+Google Drive Video Link:
+
+[https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1Scx_5ZgrQy1-khExnHmwBhk0Bdy8GH0B/view?usp=drivesdk)
 
 ---
 
